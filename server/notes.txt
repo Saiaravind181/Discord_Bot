@@ -1,0 +1,7 @@
+jwt will be decoded in three ways
+    header
+    payload
+    verify signature
+    hs256 algos
+
+    
